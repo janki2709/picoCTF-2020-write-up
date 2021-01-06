@@ -6,6 +6,7 @@ Cryptography
 
 ## Description
 What do the flags mean?
+![flag.png](https://github.com/janki2709/picoCTF-2020-write-up/Cryptography/Flags/flag.png?raw=true)
 
 ## Hints
 The flag is in the format PICOCTF{}
